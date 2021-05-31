@@ -17,4 +17,4 @@ Steps to build HRM:
 	add if condition to run live in entry file
 	add document.querySelector(“”).innerText=””; to make changes live
 	npx webpack serve to run live continuously.
-    Change the content and values check those in localhost: port number and open console in it to know the changes without refreshing the page.
+  Change the content and values check those in localhost: port number and open console in it to know the changes without refreshing the page
