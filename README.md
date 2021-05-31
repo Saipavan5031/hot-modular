@@ -1,4 +1,4 @@
-Steps to build HRM:
+Steps to build HMR:
 1.	Create an empty folder and open it in VS Code
 2.	Open terminal in it and follow the commands
 3.	 npm init -y (to generate package.json file)
