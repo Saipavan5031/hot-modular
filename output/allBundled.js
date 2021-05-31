@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("hello mann....!!");var o=100;console.log(function(o,n){return o+n}(o,50)),console.log(function(o,n){return o-n}(o,50)),console.log(function(o,n){return o*n}(o,50)),console.log(function(o,n){return o/n}(o,50)),document.querySelector("h1").innerText="hello hot moduler"})();
